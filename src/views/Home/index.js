@@ -40,7 +40,7 @@ const lineData = {
 
 const pieData = [
     {
-        value: 300,
+        value: 200,
         color:"#F7464A",
         highlight: "#FF5A5E",
         label: "Red"
